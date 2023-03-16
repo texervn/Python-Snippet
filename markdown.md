@@ -69,3 +69,8 @@ Or
 ```math
 \sin^2(\alpha)+\cos^2(\beta) = 1.
 ```
+
+## List with check
+- [x] Fix Bug 1
+- [ ] Add Feature 2
+- [ ] Add Tests 3
