@@ -44,6 +44,7 @@ We can also use with images.
 __*Bold Italic*__
 Supscript F<sup>p</sup>
 Subscript D<sub>x</sub>
+==Highlight==
 
 ## Quote
 
