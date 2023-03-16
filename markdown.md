@@ -81,3 +81,7 @@ pie
 "Male" : 51
 "Female" : 49
 ```
+## Emoji
+:smiley:
+
+The list of symbols can be found [here](https://gist.github.com/rxaviers/7360908)
