@@ -74,3 +74,10 @@ Or
 - [x] Fix Bug 1
 - [ ] Add Feature 2
 - [ ] Add Tests 3
+
+## Diagrams
+```mermaid
+pie
+"Male" : 51
+"Female" : 49
+```
